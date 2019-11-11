@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "288420745466",
+    "firebase_url": "https://chatapp-20423.firebaseio.com",
+    "project_id": "chatapp-20423",
+    "storage_bucket": "chatapp-20423.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288420745466:android:2d73afc71c454fc123f943",
+        "android_client_info": {
+          "package_name": "tellmewhere.com.navigationdrawer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288420745466-vc4oc4kv2cjatmrdulhclc8cm99f6b69.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tellmewhere.com.navigationdrawer",
+            "certificate_hash": "e70683a5036e8d3221937d8f7b4944d7ef8a6e88"
+          }
+        },
+        {
+          "client_id": "288420745466-ajaruttrpleqpbnftgqunc9hk365jelj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABYrj4vTWJnN6LLUrLLiVWy8NHsIrzZIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288420745466-ajaruttrpleqpbnftgqunc9hk365jelj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
